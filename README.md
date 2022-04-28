@@ -6,7 +6,6 @@ Tested application is MrBuggy3.
 It contains:
 
 1. Specification analysis (where inaccuracies are written down)
-2. https://github.com/Mateusz1310/Final-Project/blob/main/1.%20Inaccuracies/inaccuracies%20within%20specification.pdf
 3. Requirements of the application
 4. Test plan (in the process of making)
 5. Test cases (with LibreOffice and Testrail )
