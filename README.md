@@ -3,7 +3,7 @@ This is the project I made to set in order and consolidate my knowledge which I 
 Tested application is MrBuggy3.
 It contains:
 [1. Specification analysis (where inaccuracies are written down)]
-3. Requirements of the application
+[3. Requirements of the application]
 4. Test plan (in the process of making)
 5. Test cases (with LibreOffice and Testrail )
 6. Exploratory test 
