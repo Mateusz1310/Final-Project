@@ -5,10 +5,11 @@ Tested application is MrBuggy3.
 
 It contains:
 
-1. Specification analysis (where inaccuracies are written down)1. Inaccuracies/inaccuracies within specification.pdf
-2. Requirements of the application
-3. Test plan (in the process of making)
-4. Test cases (with LibreOffice and Testrail )
-5. Exploratory test 
-6. Testing based on test cases (with Testrail)
-7. Report (with Testrail)
+1. Specification analysis (where inaccuracies are written down)
+2. https://github.com/Mateusz1310/Final-Project/blob/main/1.%20Inaccuracies/inaccuracies%20within%20specification.pdf
+3. Requirements of the application
+4. Test plan (in the process of making)
+5. Test cases (with LibreOffice and Testrail )
+6. Exploratory test 
+7. Testing based on test cases (with Testrail)
+8. Report (with Testrail)
