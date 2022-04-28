@@ -13,3 +13,5 @@ It contains:
 [2. Requirements of the application](https://github.com/Mateusz1310/Final-Project/blob/main/2.%20Requirements/requirements.pdf)
 
 3.Test plan (in the process of making)
+
+[4. Test cases](https://github.com/Mateusz1310/Final-Project/blob/main/4.%20Test%20cases/test%20cases.pdf)
