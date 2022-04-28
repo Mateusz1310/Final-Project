@@ -14,7 +14,7 @@ It contains:
 
 3.Test plan (in the process of making)
 
-[4. Test cases](https://github.com/Mateusz1310/Final-Project/blob/main/4.%20Test%20cases/test%20cases.pdf)
+[4. Test cases (LibreOffice and Testrail)](https://github.com/Mateusz1310/Final-Project/blob/main/4.%20Test%20cases/test%20cases.pdf)
 
 [5. Exploratory test](https://github.com/Mateusz1310/Final-Project/blob/main/5.%20Exploratory%20test/EXPLORATORY%20TEST.pdf)
 
