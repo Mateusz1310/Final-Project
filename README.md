@@ -1,5 +1,5 @@
 # Final-Project
-This is the project I made to set in order and consolidate my knowledge which I gained during my testing course at SDA Academy. Its form is based on group project made during course.
+This is the project I made to set in order and consolidate my knowledge which I gained during my testing course at Software Development Academy. Its form is based on group project made during course.
 
 
 Tested application is MrBuggy3.
