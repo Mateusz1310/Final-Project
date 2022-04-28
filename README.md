@@ -18,3 +18,4 @@ It contains:
 
 [5. Exploratory test](https://github.com/Mateusz1310/Final-Project/blob/main/5.%20Exploratory%20test/EXPLORATORY%20TEST.pdf)
 
+[6. Test runs report (with Testrail)](https://github.com/Mateusz1310/Final-Project/blob/main/6.%20Test%20runs%20report/testrail-report-5.pdf)
