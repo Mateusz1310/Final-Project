@@ -10,5 +10,4 @@ It contains:
 
 [1. Specification analysis (where inaccuracies are written down)](https://github.com/Mateusz1310/Final-Project/blob/main/1.%20Inaccuracies/inaccuracies%20within%20specification.pdf)
 
-
-2. Requirements of the application
+[2. Requirements of the application](https://github.com/Mateusz1310/Final-Project/blob/main/2.%20Requirements/requirements.pdf)
